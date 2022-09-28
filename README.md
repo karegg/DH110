@@ -7,4 +7,4 @@ this project is about....
 
 https://github.com/emilydong001/DH110/blob/main/Assignments/Assignment01.md
 
-![screenshot of npr][../npr.png]
+![screenshot of photo][photo.png]
