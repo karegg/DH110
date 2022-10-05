@@ -47,7 +47,7 @@ To conduct this analysis, I will be following the heuristics and severity rating
 
 
 ## NoWaste Application
-<img src="./NoWaste-Screenshot.PNG">
+<img src="./NoWaste-Screenshot.PNG" width=250>
 <a href="https://www.nowasteapp.com/" target="_blank"> NoWaste</a> is an application that allows users to log their food. It keeps track of the amounts of specific ingredients, expiration dates, etc. in order for users to plan their meals more efficiently and reduce food waste. Reducing food waste is another good method to achieve the UN goal of consuming responsibly. 
 
 ### Evaluation
