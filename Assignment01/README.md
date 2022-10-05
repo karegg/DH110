@@ -1,6 +1,6 @@
 # Heuristic Evaluation: Consuming More Responsibly in Our Daily Lives
 
-#### Karen Li   /   DH 110
+### Karen Li   |   DH 110
 
 For the design challenge of this quarter, I chose the UN global goal “Responsible Production and Consumption”. Particularly, I want to focus on responsible consumption and how users can apply it to their own daily lives. Thus, I want to create a website/app that focuses on a specific way of consuming responsibly (e.g. secondhand shopping, reducing food waste) and improves on its current user experience. 
 
@@ -68,5 +68,5 @@ To conduct this analysis, I will be following the heuristics and severity rating
 | Help and documentation | There is a ‘Help & Tips’ section, but it only contains videos. Some users may not want to watch tutorials and instead may want to read instructions. | Provide written help and tips to users. | 2 |
 
 ## Credits
-Thank you to Emily DePressi and Joy Hsieh for giving me inspiration for this layout!
+Thank you to <a href="https://github.com/emdipressi/DH150-DiPressi" target="_blank"> Emily DePressi</a> and <a href="https://github.com/JoyHsieh/DH110-JoyHsieh-Assignment01/blob/main/README.md" target="_blank"> Joy Hsieh</a> for giving me inspiration for this layout!
 
