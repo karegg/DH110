@@ -1,5 +1,5 @@
-# DH110 Usability Testing (Pilot)
-#### Karen Li
+# DH110: Usability Testing (Pilot)
+### Karen Li
 ## Introduction
 The goal of the NoWaste app is to reduce food waste by allowing users to clearly keep track of the food they have. Users can log each food item they have into different categories – fridge, freezer, and pantry. Users can update each food item’s remaining amount, expiration date, storage information, and more. Additionally, they can create shopping lists which can be moved to the storage list once bought. 
 
@@ -17,7 +17,8 @@ First, the moderator will introduce the usability test to the participant before
 
 ## Video Links
 <a href="">Pilot UT</a>
-<a href="">Screen Recording of NoWaste App</a>
+
+<a href="https://drive.google.com/file/d/1oJNf-KL9nx5I1kMbEOKN2E6oxauwHm-b/preview" width="640" height="480" allow="autoplay">Screen Recording of NoWaste App</a>
 
 ## Reflection
 I learned several things after conducting this pilot test. Firstly, participants can be very patient and understanding. While my participant successfully completed all tasks, he had a little trouble at first with all three tasks, especially with the last task. However, when completing the post-test questionnaire, he said that the first task was easy, the second task was somewhat easy, and the third task was very easy. As such, it seems that while he had some trouble navigating through the app interface, he was very willing to accept these challenges and did not get annoyed at all. So what I perceive as a usability issue, users may not. However, I think it is still the job of user experience designers to eliminate these small troubles as much as possible; there are definitely aspects of the app that can be improved to create a better and smoother user experience. 
