@@ -1,5 +1,5 @@
 # DH 110: Contextual Inquiry
-### Karen Li
+### Karen Li // Fall 2022
 
 ## Design Challenge
 **What is the main activity your project would support for users?**
@@ -35,12 +35,13 @@
 ## Data and Transcript
 > Link to images <a href="https://drive.google.com/drive/folders/1B4zeDG8FU6p1RDo4NH0Nu58Onlb4iDrS?usp=sharing">here</a>
 > 
-> Link to Interview Recording <a href="https://drive.google.com/file/d/1OYeRpysOB1N7lZFRJLd-04zElThlKehP/view?usp=sharing">here</a>
+> Link to interview recording <a href="https://drive.google.com/file/d/1OYeRpysOB1N7lZFRJLd-04zElThlKehP/view?usp=sharing">here</a>
 > 
-> Link to Transcript <a href="https://docs.google.com/document/d/1xWGuABdWutyqKQAi5qKhqv_LsHjmVUy0dZhqE4orLbk/edit?usp=sharing">here</a>
+> Link to transcript <a href="https://docs.google.com/document/d/1xWGuABdWutyqKQAi5qKhqv_LsHjmVUy0dZhqE4orLbk/edit?usp=sharing">here</a>
 
 ## Quotes and Insights 
 Here are some points from my participant that I found interesting: 
+
 **Can you tell me the process of how you reduce food waste? Do you use leftovers?**
 > Yes, I do try to use leftovers. Sometimes, when I cook, I actually intentionally cook so that I have leftovers so that I don’t have to make the effort into cooking the next day.
 
