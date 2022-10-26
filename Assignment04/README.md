@@ -5,11 +5,11 @@
 UX storytelling is designed to better understand the user of the product – to put yourself in their shoes. Drafting personas and their narratives allows a researcher to empathize with them, understand their needs, motivations, goals, challenges, and frustrations. This, in turn, allows the researcher to create solutions that are not based on their own biases and opinions, but rather focuses on the direct user. It is important to consider personas with a wide range of characteristics, as users are diverse and have different needs and goals. 
 
 ## Persona and Empathy Map
-### Margot - Mom of three 
+### 👨‍👩‍👧‍👦 Margot - Mom of three 
 <img src="User Persona - Margot.png">
 <img src="Empathy Map - Margot.png">
 
-### Chad - Young Fit Professional
+### 👨 Chad - Young Fit Professional
 <img src="User Persona - Chad.png">
 <img src="Empathy Map - Chad.png">
 
