@@ -16,7 +16,7 @@ Here are three wireframes from the prototype:
 2. Fridge Right Drawer Screen
 3. Confirm New Location Screen
 
-<img src=""> <img src=""> <img src="">
+<img src="Fridge.png"> <img src="Fridge Right Drawer.png"> <img src="Confirm New Location.png">
 
 ## Wireflows
 
