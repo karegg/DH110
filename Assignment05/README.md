@@ -16,7 +16,7 @@ Here are three wireframes from the prototype:
 2. Fridge Right Drawer Screen
 3. Confirm New Location Screen
 
-<img src="Fridge.png"> <img src="Fridge Right Drawer.png"> <img src="Confirm New Location.png">
+<img src="Fridge.png" width=230> <img src="Fridge Right Drawer.png" width=230> <img src="Confirm New Location.png" width=230>
 
 ## Wireflows
 
@@ -27,7 +27,7 @@ Please click this <a href="https://www.figma.com/file/dW4rmLWqa5iiaICyJrNZeS/DH-
   
 ## Wireflow Testing
 
-Please click this <a href="https://drive.google.com/file/d/1IooZuceQqK-mRVcNZwnDxEwbqznFroUv/view?usp=sharing">link</a> to view the recording of the wireflow testing.<br/><br/><br/>
+Please click this <a href="https://drive.google.com/file/d/1IooZuceQqK-mRVcNZwnDxEwbqznFroUv/view?usp=sharing">link</a> to view the recording of the wireflow testing.<br/><br/>
   
 
 **Task 1:  Can you tell me which items are in the middle shelf of the fridge?**
