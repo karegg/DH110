@@ -19,7 +19,7 @@ Please click <a href="https://www.figma.com/file/dW4rmLWqa5iiaICyJrNZeS/DH-110-A
 <img src="Color Variations.png">
 
 ## Color-Contrast Accessibility Tests
-- 
+<img src="Color-Contrast Accesssibility Tests.png">
 
 ## Impression Test
 Please click <a href="https://drive.google.com/file/d/10dOBRFijorim42OmT5GOaflOKdf8Ncgv/view?usp=sharing">here</a> to access the voice recording of the impression test.
