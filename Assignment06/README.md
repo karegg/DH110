@@ -30,7 +30,7 @@ I am happy with the result of the impression test, since the user did not mentio
 
 ## Interface Design System
 Here is my finalized design system:
-<img src="graphic-design-system.png">
+<img src="">
 
 You can also access the design system and my screen variations <a href="https://www.figma.com/file/QltjLwoNWWRIV8JwCFWkK7/Assignment-6">here</a>.
 
