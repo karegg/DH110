@@ -10,15 +10,15 @@ Please click <a href="https://www.figma.com/file/dW4rmLWqa5iiaICyJrNZeS/DH-110-A
 <img src="layout.png">
 
 ## Typographic Variations
-<img src="typographic-variations.png">
+<img src="Type Variations.png">
 
 ## Shape Variations
-<img src="shape-variations.png">
+<img src="Button Shape Variations.png">
 
 ## Color Variations 
-<img src="color-variations.png">
+<img src="Color Variations.png">
 
-## Color-contrast Accessibility Tests
+## Color-Contrast Accessibility Tests
 - 
 
 ## Impression Test
@@ -30,7 +30,7 @@ I am happy with the result of the impression test, since the user did not mentio
 
 ## Interface Design System
 Here is my finalized design system:
-<img src="">
+<img src="design-system.png">
 
 You can also access the design system and my screen variations <a href="https://www.figma.com/file/QltjLwoNWWRIV8JwCFWkK7/Assignment-6">here</a>.
 
