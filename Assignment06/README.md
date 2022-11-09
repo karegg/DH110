@@ -7,16 +7,16 @@ My project focuses on reducing food waste via a food tracking app called NoWaste
 Please click <a href="https://www.figma.com/file/dW4rmLWqa5iiaICyJrNZeS/DH-110-Assignment-5">here</a> to access the digitized wireflow.
 
 ## Layout
-<img src="">
+<img src="layout.png">
 
 ## Typographic Variations
-<img src="">
+<img src="typographic-variations.png">
 
 ## Shape Variations
-<img src="">
+<img src="shape-variations.png">
 
 ## Color Variations 
-<img src="">
+<img src="color-variations.png">
 
 ## Color-contrast Accessibility Tests
 - 
@@ -30,7 +30,7 @@ I am happy with the result of the impression test, since the user did not mentio
 
 ## Interface Design System
 Here is my finalized design system:
-<img src="">
+<img src="graphic-design-system.png">
 
 You can also access the design system and my screen variations <a href="https://www.figma.com/file/QltjLwoNWWRIV8JwCFWkK7/Assignment-6">here</a>.
 
