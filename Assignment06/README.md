@@ -32,7 +32,7 @@ I am happy with the result of the impression test, since the user did not mentio
 Here is my finalized design system:
 <img src="Design System.png">
 
-You can also access the design system and my screen variations <a href="https://www.figma.com/file/QltjLwoNWWRIV8JwCFWkK7/Assignment-6">here</a>.
+You can access the design system and my screen variations <a href="https://www.figma.com/file/QltjLwoNWWRIV8JwCFWkK7/Assignment-6">here</a>.
 
 ## Decision Making Process
 For the layout, I decided on 9 rows and 4 columns. I picked 9 rows and aligned my list items to the margins. This made sense to me, because my app contains a lot of list items, so I wanted a reasonable amount of list items on the screen. It seems that 4 columns is pretty common for mobile applications and since I have four navigation icons, I decided on that. I set the gutter to 11, which is right before where the buttons end. 
