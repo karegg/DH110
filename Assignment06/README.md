@@ -6,6 +6,9 @@ My project focuses on reducing food waste via a food tracking app called NoWaste
 
 Please click <a href="https://www.figma.com/file/dW4rmLWqa5iiaICyJrNZeS/DH-110-Assignment-5">here</a> to access the digitized wireflow.
 
+## Layout
+<img src="">
+
 ## Typographic Variations
 <img src="">
 
