@@ -20,7 +20,7 @@ Task 3: Add a new location
 The red flow lines indicate Task 3.**
 
 ## Wireflow
-<img src="">
+<img src="Hifi-Prototype.png">
 
 ## Interactive Prototype
 Click <a href="https://www.figma.com/file/czR3N08g49YFkTxlKsBVpg/DH110-Assignment-7?node-id=0%3A1&t=5NE51X7mr5qCRzPc-1">here</a> to access the Figma file. 
