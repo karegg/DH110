@@ -25,7 +25,7 @@ The red flow lines indicate Task 3.**
 ## Interactive Prototype
 Click <a href="https://www.figma.com/file/czR3N08g49YFkTxlKsBVpg/DH110-Assignment-7?node-id=0%3A1&t=5NE51X7mr5qCRzPc-1">here</a> to access the Figma file. 
 
-CLick <a href="https://www.figma.com/proto/czR3N08g49YFkTxlKsBVpg/DH110-Assignment-7?page-id=0%3A1&node-id=1%3A431&viewport=-1272%2C556%2C0.37&scaling=scale-down&starting-point-node-id=1%3A431">here</a> to access the **Interactive Prototype.**
+CLick <a href="https://www.figma.com/proto/czR3N08g49YFkTxlKsBVpg/DH110-Assignment-7?page-id=0%3A1&node-id=1%3A431&viewport=-1272%2C556%2C0.37&scaling=scale-down&starting-point-node-id=1%3A431">here</a> to access the Interactive Prototype.
 
 ## Cognitive Walkthrough
 To be updated. 
