@@ -1,8 +1,8 @@
 # Reducing Food Waste Via Food Tracking
 ### Karen Li | DH 110 UX+UI Design | Fall 2022
 
-## Design statement
-My UX design problem was to reduce food waste via food tracking. Specifically, I decided to focus on a food tracking app called NoWaste. 
+## Design statement 
+My UX design problem was to reduce food waste via food tracking. Specifically, it is an Un goal: Responsible Prodution and Consumption.
 
 ## Research 
 I conducted a [heuristic evaluation](https://github.com/karegg/DH110/blob/main/Assignment01/README.md) of Poshmark and NoWaste before deciding that I wanted to focus on the issue of food waste. I researched current solutions to the problem and conducted a [contextual inquiry](https://github.com/karegg/DH110/blob/main/Assignment03/README.md).
