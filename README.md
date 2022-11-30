@@ -19,9 +19,9 @@ To begin this project, I conducted a heuristics evaluation on the Poshmark websi
 
 ### Pilot Usability Testing
 The second part of the competitor analysis consists of usability testing. Usability testing (UT) aims to uncover any usability issues by testing a product’s functionality and design. I wanted to examine whether common tasks in the NoWaste app are completed with ease or difficulty, so I recruited a participant to complete a pilot UT. The three tasks I asked my participant to do were as follows:
-- Display only the items in the fridge category
-- Add ‘eggs’ and ‘bananas’ to the ‘Essentials’ function
-- Let the app know that you have consumed ‘pasta’
+1. Display only the items in the fridge category
+2. Add ‘eggs’ and ‘bananas’ to the ‘Essentials’ function
+3. Let the app know that you have consumed ‘pasta’
 
 While my participant was able to complete all three tasks successfully, they had a little difficulty with the third task. However, they were not annoyed or upset at all, which made me conclude that what user researchers may deem as an usability issue, users may not at all. Despite this, it is the user researcher’s responsibility to eliminate these minor problems to ensure a seamless and smooth user experience. View the full pilot usability testing <a href="https://github.com/karegg/DH110/tree/main/Assignment02/README.md" target="_blank">here</a>.
 
