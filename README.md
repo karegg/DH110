@@ -69,7 +69,8 @@ To make my design more clear, I changed the basket icon text at the menu bar fro
 I changed the location of where ‘Saved Locations’ can be accessed. Instead of putting it within Setup, I put it next to Setup so it is more clearly perceivable. When scrolling through the Profile screen, even first-time users will see ‘Saved Locations’. If they are curious and click on it, they will understand the purpose of the feature. To make sure, I conducted another usability testing on a new participant. The participant was able to complete tasks 1 and 2 quickly as expected. They were also able to complete task 3 quicker than the other participants. In the beginning of task 3, they were a bit unsure where to click, but once they navigated to ‘Settings’ they were able to find ‘Saved Locations’. As such, I think this change was very necessary. I also changed ‘To-Buy’ back to ‘Shopping’. You can view the video recording <a href="https://drive.google.com/file/d/1kP-iluyjVxSqDVERhqixbyiqqJ1dXeku/view?usp=sharing" target="_blank">here</a>.  
 
 ## Pitch
-To be updated after this video :)
+Please click <a href="">here</a> to watch my pitch video.
+
 ## Conclusion
 This project was very time-consuming, extensive, interesting, and rewarding. I started the project thinking that UX/UI design is something I want to pursue as a career. Throughout the process, this wavered a bit but now that the project is complete, it has been solidified that I definitely want to do more UX/UI. I have definitely learned and grown a lot throughout this experience.
 
