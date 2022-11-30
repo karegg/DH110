@@ -14,7 +14,7 @@ The issue is that the NoWaste app and other similar food tracking apps are relat
 ## Competitor Analysis 
 To begin this project, I conducted a heuristics evaluation on the Poshmark website and the NoWaste app. Both products allow users to reduce their consumption, via secondhand shopping and tracking food. The Poshmark website can be very overwhelming especially for a first-time user, and it feels very cluttered. It violates several heuristics, and overall I do not think it is a very intuitive site. On the other hand, the NoWaste app is more minimalistic, as it uses simple colors and shapes. Although it may seem easier to use, I discovered some features that were not very intuitive and required exploration. While the Poshmark website overall performed worse than the NoWaste app on the heuristic evaluation, ultimately I decided with the NoWaste app, because of two reasons: it had more potential for creative freedom and I was more passionate about food waste. Check out the full heuristic evaluation <a href="https://github.com/karegg/DH110/tree/main/Assignment01" target="_blank">here</a>. 
 
-<img src="Poshmark.png" height="300"> <img src="NoWaste.PNG" height="300">
+<img src="Poshmark.png" height="600"> <img src="NoWaste.PNG" height="600">
 
 The second part of the competitor analysis consists of usability testing. Usability testing (UT) aims to uncover any usability issues by testing a product’s functionality and design. I wanted to examine whether common tasks in the NoWaste app are completed with ease or difficulty, so I recruited a participant to complete a pilot UT. The three tasks I asked my participant to do were as follows:
 Display only the items in the fridge category
