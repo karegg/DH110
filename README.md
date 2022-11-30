@@ -6,7 +6,7 @@ My DH 110 project this quarter focuses on one of the 17 United Nations Sustainab
 
 The app I have decided to research is called NoWaste, a food tracking app; users can track the amount of food they have as well as their expiration date. Additionally, users can view the value they get from the food they buy (and how much money they have lost through expired foods). And so, my hopes for this project is to improve the NoWaste app and its user experience to bring more traction to it.
 
-## Design statement 
+## Design Statement 
 Food waste is a huge problem in the United States. According to Feeding America, 108 billion pounds of food is wasted each year in the United States. This accounts for almost 40% of food in the United States. Personally, I try to do the best I can to reduce my own carbon footprint, and that includes food waste. I use a lot of leftovers, only buy the foods that I need, and try to shop locally whenever possible. However, some of these methods take a lot of time and effort, which not everyone has. And so, a simple and effective way for everyone to reduce their food waste is by using the NoWaste app, which is free! 
 
 The issue is that the NoWaste app and other similar food tracking apps are relatively unknown. You hear of calorie-tracking and meal-tracking apps, but not apps where you can track what food you have and when it expires. As such, my main goal for this project is to improve the NoWaste app so that it inspires and motivates more individuals to use it, so that they can reduce their food waste by being better informed about their food ingredients.
