@@ -25,8 +25,10 @@ Moving on, I wanted to learn more about my users – individuals who use or are 
 1. Can you show me all the things you do to reduce waste in your home?
 2. I want you to learn more about food tracking; it should be related to food waste.
 3. Now, I want you to look for and download a food tracking app.
+
 From this contextual inquiry, I made some interesting insights. To food track, they usually just look at their fridge. It’s like a visual reminder of what they can eat and what they need to buy. However, it is also easier for them to forget about snacks they buy, as snacks aren’t kept in the fridge. They also think that they would only be likely to use food tracking apps if they noticed they had issues with eating foods before they expire. See more <a href="https://github.com/karegg/DH110/tree/main/Assignment03" target="_blank">here</a>.
-<img src="">
+
+<img src="Contextual Inquiry.png">
 
 ## UX Storytelling
 UX storytelling allows the user researcher to situate themselves into the user’s point of view. The goal is to understand the user’s needs, motivations, goals, challenges, and frustrations. Thus, in order to better empathize with the user, I created two personas and scenarios based on my previous research. 
@@ -34,23 +36,28 @@ UX storytelling allows the user researcher to situate themselves into the user�
 My first persona is Margot, a 31 year old stay-at-home mom. She wants to plan grocery trips and her family’s meals more efficiently. However, she does not have a lot of free time and easily gets overwhelmed looking at her stuffed fridge; this results in her throwing out food she forgets about. The visual fridge feature solves this issue, as it allows her to see what food is stored in each section of her fridge. 
 
 My second persona is Chad, a young fit professional. His goals involve being aware of his diet so he can reach his fitness goals, reducing food waste to save money, and reducing unnecessary grocery trips. Since he works a fast-paced job, he is often forgetful and this has translated to other aspects of his life. He often forgets to buy certain ingredients when grocery shopping, meaning he usually has to make a second trip to the store.  The ‘Saved Locations’ feature can help with Chad’s problem. The app will ping him every time he is at a ‘Saved Location’, such as at the grocery store or when he arrives home after a shopping trip; this will ensure that Chad will look at the shopping list at the store and not forget any items. View the UX storytelling <a href="https://github.com/karegg/DH110/tree/main/Assignment04" target="_blank">here</a>. 
-<img src="User Persona - Margot.png"> <img src="User Persona - Chad.png">
+
+<img src="User Persona - Margot.png" width="450"> <img src="User Persona - Chad.png" width="450">
 
 ## Low-fidelity Prototype
 After working on the UX storytelling, I came up with two features to solve each persona’s pain point; the visual fridge feature and the ‘Saved Locations’ function. In order to test the functionality and intuitiveness of these features, I created a low-fidelity prototype. Then, I recruited a participant to test out the wireflow. I gave them the following three tasks:
 1. Can you tell me which items are in the middle shelf of the fridge?
 2. Can you add ‘Limes’ to the right drawer of the fridge?
 3. Can you add ‘Whole Foods Market’ to your Saved Locations in the app?
+
 My participant was able to complete all the tasks successfully although they had a little bit of trouble with the last task. I think I may have to revise where this feature can be accessed, as otherwise this feature may be hidden to users. See the full low-fidelity prototype <a href="https://github.com/karegg/DH110/tree/main/Assignment05" target="_blank">here</a>.
+
 <img src="Fridge.png" width=230> <img src="Fridge Right Drawer.png" width=230> <img src="Confirm New Location.png" width=230>
 
 ## Interface Design System
 Before working on the high fidelity prototype, I created an interface design system that I could apply to all my wireframes. I created three typographic variations, button shape variations, and two color variations. I also utilized the same layout design for all my wireframes. If you would like to read more about my design choices, you can click more <a href="https://github.com/karegg/DH110/tree/main/Assignment06" target="_blank">here</a>.
-<img src="Design System.png">
+
+<img src="Design System.png" width="700">
 
 ## High-fidelity Prototype
 The purpose of a high-fidelity prototype is to simulate how a user would interact with the actual realized product. It is to test the functionality and design of the prototype, so improvements can be made before the product becomes finalized. I applied my interface design system to my low-fidelity prototype, changed a few details and recruited a new participant. This participant received the same tasks as in the low-fidelity prototype testing. Here is a <a href="https://www.figma.com/proto/czR3N08g49YFkTxlKsBVpg/DH110-Assignment-7?page-id=0%3A1&node-id=1%3A431&viewport=-1272%2C556%2C0.37&scaling=scale-down&starting-point-node-id=1%3A431" target="_blank">link</a> to the prototype – please feel free to try out the tasks yourself!
-<img src="Hifi-Fridge.png" width=230> <img src="Hifi-Fridge Right Drawer.png" width=230> <img src="Hifi-Confirm New Location.png" width=230>
+
+<img src="Hifi-Fridge.png" width=230> <img src="Hifi-Fridge Right Drawer.png" width=230> <img src="Hifi-Confirm New Location.png" width=233>
 
 ## Cognitive Walkthrough
 After creating my high-fidelity prototype, I conducted an impression test and cognitive walkthrough with two of my classmates. During the impression test, both of them did not understand the purpose of the NoWaste app. This led me to think that I should update the design to make the purpose more clear and perceivable. Additionally, both of them noted that there were some points of confusion while they were using the app, so this is another reason why I need to make my app more intuitive. On the other hand, they both though my design was consistent. If you would like to see the full notes of the cognitive walkthrough, please click <a href="https://github.com/karegg/DH110/tree/main/Assignment07" target="_blank">here</a> and scroll down to the section that says “Cognitive Walkthrough”.
@@ -69,7 +76,7 @@ This project was very time-consuming, extensive, interesting, and rewarding. I s
 
 I discovered my favorite aspects of UX/UI design. I loved creating the low-fidelity prototype, interface design system, and high-fidelity prototype. I really enjoyed creating the interactions between the wireframes as well as conducting the usability testing. On the other hand, I did not enjoy the heuristic evaluation and contextual inquiry as much. However, I think this may be based on the fact that there were pretty strict time constraints; in a work environment where I imagine I would have more time to conduct user research, I think I would enjoy it more. So, I think I definitely lean more on the UI side of things, but I am still interested in user research. 
 
-Another big takeaway I’ve learned is that there is a lot of uncertainty. I constantly questioned myself during this process, but the thing is – you just have to trust yourself. And my project turned out well. It’s definitely still a work in progress and needs revisions, but overall I have made improvements to the app. That is to say, I had a great experience and I am looking forward to doing more UX/UI.
+Another key takeaway I’ve learned is that there is a lot of uncertainty. I constantly questioned myself during this process, but the thing is – you just have to trust yourself. And my project turned out well. It’s definitely still a work in progress and needs revisions, but overall I have made improvements to the app. That is to say, I had a great experience and I am looking forward to doing more UX/UI.
 
 
 
