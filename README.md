@@ -22,6 +22,7 @@ The second part of the competitor analysis consists of usability testing. Usabil
 - Display only the items in the fridge category
 - Add ‘eggs’ and ‘bananas’ to the ‘Essentials’ function
 - Let the app know that you have consumed ‘pasta’
+
 While my participant was able to complete all three tasks successfully, they had a little difficulty with the third task. However, they were not annoyed or upset at all, which made me conclude that what user researchers may deem as an usability issue, users may not at all. Despite this, it is the user researcher’s responsibility to eliminate these minor problems to ensure a seamless and smooth user experience. View the full pilot usability testing <a href="https://github.com/karegg/DH110/tree/main/Assignment02" target="_blank">here</a>.
 
 ## User Research
