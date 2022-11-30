@@ -32,7 +32,7 @@ Moving on, I wanted to learn more about my users – individuals who use or are 
 
 From this contextual inquiry, I made some interesting insights. To food track, they usually just look at their fridge. It’s like a visual reminder of what they can eat and what they need to buy. However, it is also easier for them to forget about snacks they buy, as snacks aren’t kept in the fridge. They also think that they would only be likely to use food tracking apps if they noticed they had issues with eating foods before they expire. See more <a href="https://github.com/karegg/DH110/tree/main/Assignment03" target="_blank">here</a>.
 
-<img src="Contextual.png" width=550>
+<img src="Contextual.png" width=650>
 
 ## UX Storytelling
 UX storytelling allows the user researcher to situate themselves into the user’s point of view. The goal is to understand the user’s needs, motivations, goals, challenges, and frustrations. Thus, in order to better empathize with the user, I created two personas and scenarios based on my previous research. 
